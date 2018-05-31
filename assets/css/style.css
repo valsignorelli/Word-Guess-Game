@@ -1,0 +1,61 @@
+body {
+    background-image: url("../images/brazil.jpg");
+    background-size: 100%;
+}
+
+.container {
+    margin-top: 100px;
+    
+  }
+  
+  h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70px;
+    color: white;
+    text-align: center;
+  }
+  
+  h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: green;
+    text-align: center;
+  }
+
+  h4 {
+    color: rgb(251, 255, 20);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+  }
+
+  p {
+      padding: 5px 0px;
+  }
+
+  hr {
+      border: dashed 1px;
+      border-color: rgb(251, 255, 20);
+  }
+
+  .box {
+    height: 50px;
+    margin-top: 50px;
+  }
+
+  .game {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 20px;
+    
+  }
+
+  #words {
+      margin-top: 30px;
+  }
+
+  img {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+  }
